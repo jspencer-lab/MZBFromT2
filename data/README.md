@@ -3,8 +3,9 @@
 Data is stored elsewhere (TODO: add accession numbers when data is deposited.)
 
 File structure should be:
+```
 data
-```|── MhiMlo 
+|── MhiMlo 
 |        |── Mhi
 |        |    └── filtered_gene_bc_matrices
 |        |                |── barcodes.tsv.gz
