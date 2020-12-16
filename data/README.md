@@ -4,7 +4,7 @@ Data is stored elsewhere (TODO: add accession numbers when data is deposited.)
 
 File structure should be:
 data
-|── MhiMlo /n
+`|── MhiMlo 
 |        |── Mhi
 |        |    └── filtered_gene_bc_matrices
 |        |                |── barcodes.tsv.gz
@@ -30,4 +30,4 @@ data
                 └── filtered_gene_bc_matrices
                            |── barcodes.tsv.gz
                            |── features.tsv.gz
-                           └── matrix.mtx.gz
+                           └── matrix.mtx.gz`
