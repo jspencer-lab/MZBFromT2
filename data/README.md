@@ -31,4 +31,5 @@ data
                 └── filtered_gene_bc_matrices
                            |── barcodes.tsv.gz
                            |── features.tsv.gz
-                           └── matrix.mtx.gz```
+                           └── matrix.mtx.gz
+```
