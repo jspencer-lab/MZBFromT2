@@ -3,6 +3,7 @@
 Data is stored elsewhere (TODO: add accession numbers when data is deposited.)
 
 File structure should be:
+```
 data
 |── MhiMlo 
 |        |── Mhi
@@ -31,3 +32,4 @@ data
                            |── barcodes.tsv.gz
                            |── features.tsv.gz
                            └── matrix.mtx.gz
+```
